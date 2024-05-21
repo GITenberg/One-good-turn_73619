@@ -1,0 +1,33 @@
+_repo: One-good-turn_73619
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Bertrand W.
+    aliases:
+    - Sinclair, William Brown
+    - Sinclair, Bill
+    - Sinclair, Bertrand William
+    birthdate: 1881
+    deathdate: 1972
+    gutenberg_agent_id: '3891'
+    url: http://www.gutenberg.org/2009/agents/3891
+    wikipedia: https://en.wikipedia.org/wiki/Bertrand_William_Sinclair
+description: ''
+gutenberg_issued: '2024-05-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73619'
+language: en
+pgterms:marc904: https://archive.org/details/popularmagazinev055n0519200620
+pgterms:marc905: 20240326004941sinclair
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bStreet & Smith Corporation, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: One good turn
+url: http://www.gutenberg.org/ebooks/73619
